@@ -216,7 +216,7 @@ font:
 social:
   GitHub: https://github.com/TangLinJie
   CSDN: https://blog.csdn.net/qq_39742013
-  EMail: 1014773600@qq.com
+  Mail: mailto:1014773600@qq.com
 
 
 # Social Links Icons
@@ -232,7 +232,7 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   CSDN: book
-  EMail: envelope-square
+  Mail: envelope-square
 
 
 # Sidebar Avatar
@@ -384,7 +384,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: False
   shortname: tanglj
   count: true
   # hide comments (visitors need to click to load the comments)
@@ -454,7 +454,7 @@ gitalk:
 ##  type: button
 
 # Share
-jiathis: true
+#jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
