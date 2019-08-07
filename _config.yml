@@ -443,8 +443,8 @@ gitalk:
   clientID: 1a184ba5f4200427f463
   clientSecret: d13a14c3cfccef49cd20da172e9c157823b3fd86
   repo: TangLinJie.github.io
-  owner: tanglj
-  admin: tanglj
+  owner: TangLinJie
+  admin: TangLinJie
 
 # Baidu Share
 # Available value:
