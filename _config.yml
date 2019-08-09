@@ -446,7 +446,7 @@ gitalk:
   owner: TangLinJie
   admin: TangLinJie
   distractionFreeMode: True
-  id: 'Gitalk初始化报错"validation failed"'
+  id: md5(location.href)
 
 # Baidu Share
 # Available value:
