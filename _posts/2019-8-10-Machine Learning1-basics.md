@@ -1,5 +1,5 @@
 ---
-title: Machine Learning(一) - basics
+title: Machine Learning(1) - basics
 date: 2019-8-10 00:44:08
 categories:
 - 机器学习
