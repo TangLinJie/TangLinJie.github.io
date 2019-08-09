@@ -445,8 +445,6 @@ gitalk:
   repo: TangLinJie.github.io
   owner: TangLinJie
   admin: TangLinJie
-  distractionFreeMode: True
-  id: md5(location.href)
 
 # Baidu Share
 # Available value:
